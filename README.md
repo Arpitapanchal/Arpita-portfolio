@@ -1,4 +1,5 @@
 📂 Portfolio Repository
+
 Welcome to my Portfolio Repository! This repository showcases a collection of my projects and work, which demonstrate my skills in programming, data analysis, cybersecurity, and more. Each project is well-documented with detailed explanations, code snippets, and visualizations where applicable.
 
 🔗 Portfolio Highlights
